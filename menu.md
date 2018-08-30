@@ -1,4 +1,4 @@
-# KU Cafe Breakfast Menu
+ KU Cafe Breakfast Menu
 
 ## Breakfast Items
 
